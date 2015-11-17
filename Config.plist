@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Actions</key>
+	<array>
+		<dict>
+			<key>AppleScript File</key>
+			<string>LDOCE5.applescript</string>
+			<key>Before</key>
+			<string>copy</string>
+			<key>Title</key>
+			<string>LDOCE5</string>
+		</dict>
+	</array>
+	<key>Apps</key>
+	<array>
+		<dict>
+			<key>Link</key>
+			<string>https://hakidame.net/ldoce5viewer/</string>
+			<key>Name</key>
+			<string>LDOCE5 Viewer</string>
+		</dict>
+	</array>
+	<key>Extension Description</key>
+	<string>Searching words using LDOCE5 Viewer.</string>
+	<key>Extension Identifier</key>
+	<string>me.ukoasis.popclip.extension.ldoce5</string>
+	<key>Extension Name</key>
+	<string>LDOCE5</string>
+</dict>
+</plist>
