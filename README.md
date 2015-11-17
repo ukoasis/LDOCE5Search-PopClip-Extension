@@ -12,7 +12,7 @@ LDOCE5 Search PopClip Extension
 
 ## Usage
 
-![Usage]("https://github.com/ukoasis/LDOCE5Search-PopClip-Extension/blob/master/usage.gif")
+![Usage](https://raw.githubusercontent.com/ukoasis/LDOCE5Search-PopClip-Extension/master/usage.gif)
 
 ## Install
 
